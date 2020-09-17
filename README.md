@@ -80,7 +80,7 @@ rescue_princess_peach
 puts status
 ```
 
-2 . Run the file with `ruby lib/rescue_princess_peach.rb` in your terminal. You should see the following:
+2 . Run the file with `c` in your terminal. You should see the following:
 
 ```ruby
 Hooray! Mario has rescued Princess Peach.
